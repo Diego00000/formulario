@@ -1,0 +1,16 @@
+html,body{
+	background-image: url("../img/01.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	opacity: 1.83;
+	}
+	.container{
+		height: 100%;
+		align-content: center;
+		color: white;
+		font-size: 18px;
+		}
+h2{
+	color: black;
+}		
